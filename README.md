@@ -1,2 +1,5 @@
 # hello-world2
-just another repository
+
+hello everyone!
+
+just want to greet everyone(as strating part).
